@@ -54,7 +54,7 @@
   
   <br/><br/><br/>
 </div>
- ## 📈 Github Stats
+
  <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
      <p>
