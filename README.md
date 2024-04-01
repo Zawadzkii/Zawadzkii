@@ -65,7 +65,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zawadzkii&show_icons=true&theme=tokyonight" />
+
 
 
 
@@ -89,5 +89,4 @@
  </a>
 
 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-     <img alt="zawadzkii" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Zawadzkii&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+
