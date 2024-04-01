@@ -15,3 +15,5 @@
 ⚡ Fun fact: Did you know that C# was developed by Microsoft as a response to Java?
 
 📫 If you have any questions or want to get in touch, don't hesitate to message me directly on GitHub!
+
+<br/>
