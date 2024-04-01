@@ -17,6 +17,8 @@
 📫 If you have any questions or want to get in touch, don't hesitate to message me directly on GitHub!
 
 <br/>
+<div align="left">
+
 🎓 Hi there! I'm a self-taught enthusiast with a passion for programming and a hunger for knowledge in the field of computer science. While I don't have a formal university education in this domain, I'm constantly honing my skills through self-learning and hands-on experience.
 
 💻 My interests mainly revolve around programming in C# and exploring various technologies related to the .NET framework. I also strive to broaden my knowledge in developing desktop applications and designing user interfaces.
