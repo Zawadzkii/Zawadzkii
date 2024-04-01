@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Student+Wojciech+Zawadzki!;" />
 </h1>    
 
-👨‍💻 Computer science student with a passion for C# programming
+<div align="center">
+
+    👨‍💻 Computer science student with a passion for C# programming
 
 🔭 Currently learning to develop applications in C# and exploring various .NET technologies.
 
