@@ -4,7 +4,7 @@
 
 <div align="center">
 
-    👨‍💻 Computer science student with a passion for C# programming
+ 👨‍💻 Computer science student with a passion for C# programming
 
 🔭 Currently learning to develop applications in C# and exploring various .NET technologies.
 
