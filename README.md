@@ -24,7 +24,8 @@
 💻 My interests mainly focus on programming in C# and exploring various technologies related to the .NET framework. Additionally, I strive to expand my knowledge of desktop application development and user interface design.
 
 
-🌱 Despite the lack of formal education, I regularly learn new things through reading documentation, participating in online courses, and practical programming projects. I'm determined to continually improve my skills and pursue professional development as a programmer.
+🌱 Despite the lack of formal education, I regularly learn new things through reading documentation, participating in online courses, and practical programming projects. I'm determined to continually improve my skills and pursue professional development as a programmer
+
 
  </div>
  
