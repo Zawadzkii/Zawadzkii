@@ -26,9 +26,3 @@
 
 🌱 Despite the lack of formal education, I regularly learn new things through reading documentation, participating in online courses, and practical programming projects. I'm determined to continually improve my skills and pursue professional development as a programmer.
 
-# ZAWADZKI
-[![Wojciech Zawadzki StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3712531&theme=dark&layout=default)](https://stackoverflow.com/users/3712531/stanley)
-___
-![](https://raw.githubusercontent.com/StanlyLife/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/StanlyLife/github-stats-transparent/output/generated/languages.svg)
-___
