@@ -58,16 +58,4 @@
 
 
 
-</div>
 
-<div align="center">
-  <a href="#">
-    <img width=100% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=da2828&height=3&section=header&%20render">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/juletopi/">
-    <img src="https://streak-stats.demolab.com/?user=juletopi&theme=dark&hide_border=true&background=0E1118&ring=E73737&fire=EAA532&currStreakLabel=EAA532&currStreakNum=FFFFFF&disable_animations=true" width="550" alt="JuletopiStreak-stats" title="Juletopi's Streak Stats">
-  </a>
-</div>
