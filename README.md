@@ -57,5 +57,6 @@
 
 
 
+[![Licencja](https://img.shields.io/badge/Licencja-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
