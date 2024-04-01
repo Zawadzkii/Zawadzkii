@@ -4,24 +4,21 @@
 
 <div align="center">
 
- 👨‍💻 Computer science student with a passion for C# programming
+👨‍💻 As a self-taught computer science enthusiast, I'm passionate about C# programming and its possibilities. Currently, I'm learning to develop applications in C# and exploring various .NET technologies.
 
-🔭 Currently learning to develop applications in C# and exploring various .NET technologies.
+🔭 My journey involves not only mastering the art of creating applications in C#, but also delving into the nuances of object-oriented programming, user interface design, and working with databases within the context of C#.
 
-🌱 Continuously delving into the intricacies of object-oriented programming, user interface design, and working with databases in C#.
+💬 I'm open to any questions about C# programming, .NET, desktop application development, and more.
 
-💬 Feel free to ask me questions about C# programming, .NET, desktop application development, and more!
-
-⚡ Fun fact: Did you know that C# was developed by Microsoft as a response to Java?
+⚡ Fun fact: Did you know that C# was developed by Microsoft as a response to Java? It's fascinating how these languages have evolved and influenced each other over the years.
 
 📫 If you have any questions or want to get in touch, don't hesitate to message me directly on GitHub!
 
 <br/>
 <div align="left">
 
-🎓 I'm a self-taught enthusiast with a passion for programming and a hunger for knowledge in the field of computer science. While I don't have a formal university education in this domain, I'm constantly honing my skills through self-learning and hands-on experience.
+🎓 I'm a self-taught enthusiast who is passionate about programming and continuous development in the field of computer science. Although I don't have formal education in this field, I'm constantly improving my skills through self-learning and practical experience.
 
-💻 My interests mainly revolve around programming in C# and exploring various technologies related to the .NET framework. I also strive to broaden my knowledge in developing desktop applications and designing user interfaces.
+💻 My interests mainly focus on programming in C# and exploring various technologies related to the .NET framework. Additionally, I strive to expand my knowledge of desktop application development and user interface design.
 
-🌱 Despite lacking formal education, I regularly engage in learning new things by reading documentation, participating in online courses, and undertaking practical programming projects. I'm determined to continuously improve my skills and pursue professional development as a programmer.
-
+🌱 Despite the lack of formal education, I regularly learn new things through reading documentation, participating in online courses, and practical programming projects. I'm determined to continually improve my skills and pursue professional development as a programmer.
