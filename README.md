@@ -54,7 +54,13 @@
   
   <br/><br/><br/>
 </div>
-
+ ## 📈 Github Stats
+ <h3>🔥 Streak Stats</h3>
+ <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+     <p>
+         <img src="https://streak-stats.demolab.com?user=Zawadzkii&theme=monokai-metallian&mode=weekly&fire=DD2727">
+     </p>
+ </a>
 
 
 
