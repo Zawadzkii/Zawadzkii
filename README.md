@@ -59,4 +59,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zawadzkii&layout=compact&langs_count=10&hide=html,css)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitkoVtori&count_private=true&include_all_commits=true&random=23423ads)
+<img src="https://github-readme-stats.vercel.app/api?username=michaellarocca&show_icons=true&theme=tokyonight" />
