@@ -59,4 +59,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zawadzkii&layout=compact&langs_count=10&hide=html,css)
-<img src="https://github-readme-stats.vercel.app/api?username=michaellarocca&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Zawadzkii&show_icons=true&theme=tokyonight" />
