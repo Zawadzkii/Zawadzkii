@@ -60,3 +60,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zawadzkii&layout=compact&langs_count=10&hide=html,css)
 <img src="https://github-readme-stats.vercel.app/api?username=Zawadzkii&show_icons=true&theme=tokyonight" />
+[![trophy](https://github-profile-trophy.vercel.app/?Zawadzkii=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
