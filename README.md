@@ -16,7 +16,7 @@
 
 <br/>
 <div align="left">
-
+</h1> 
 🎓 I'm a self-taught enthusiast who is passionate about programming and continuous development in the field of computer science. Although I don't have formal education in this field, I'm constantly improving my skills through self-learning and practical experience.
 
 💻 My interests mainly focus on programming in C# and exploring various technologies related to the .NET framework. Additionally, I strive to expand my knowledge of desktop application development and user interface design.
