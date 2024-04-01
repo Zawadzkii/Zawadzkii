@@ -57,8 +57,6 @@
 
 
 
-![](https://raw.githubusercontent.com/StanlyLife/github-stats-transparent/output/generated/languages.svg)
-___
 
 
 
