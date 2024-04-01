@@ -55,6 +55,11 @@
 </div>
 
 
+[![Stian Håve's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3712531&theme=dark&layout=default)](https://stackoverflow.com/users/3712531/stanley)
+___
+![](https://raw.githubusercontent.com/StanlyLife/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/StanlyLife/github-stats-transparent/output/generated/languages.svg)
+___
 
 
 
